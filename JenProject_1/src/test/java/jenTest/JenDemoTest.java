@@ -14,6 +14,7 @@ public class JenDemoTest {
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver=new EdgeDriver();
 		driver.get("https://www.facebook.com");
+		//1st pull
 	}
 
 }
