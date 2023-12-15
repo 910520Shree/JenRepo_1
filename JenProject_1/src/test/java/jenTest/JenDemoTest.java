@@ -16,6 +16,7 @@ public class JenDemoTest {
 		driver.get("https://www.facebook.com");
 		//1st pull
 		//2nd push
+		//2nd pull
 	}
 
 }
